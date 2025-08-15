@@ -9,6 +9,7 @@ A simple e-commerce website built using **HTML**, **CSS**, and **JavaScript**.
 - Responsive design
 - Cool animations
 - Easy to navigate
+- A real world e commerce website
 
 ## How to Use
 Just click on the link and boom 😊✨🎊
